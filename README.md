@@ -5,7 +5,7 @@ The **Heart Disease Prediction Web Application** helps users predict their risk 
 
 ## 🚀 Access the App
  Access the live version: [https://cicdnexus-production.up.railway.app/](https://cicdnexus-production.up.railway.app/)
-Notice: please trun on your vpn and then follow above link to access the app
+ Notice: please trun on your vpn and then follow above link to access the app
 ---
 
 ## ✅ Features
